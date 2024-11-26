@@ -1,0 +1,7 @@
+numpy
+pandas
+tqdm
+matplotlib
+plotly
+scikit-learn
+tensorflow
